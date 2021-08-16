@@ -1,0 +1,71 @@
+.js-input {
+  display: flex;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 24px;
+  margin-bottom: 24px;
+
+  width: 300px;
+  border-color: black;
+  padding: 8px;
+  border-radius: 15px;
+  border-width: 3px;
+  font-family: sans-serif;
+  font-size: 18px;
+
+  outline: none;
+}
+
+.list {
+  list-style: none;
+}
+
+.container {
+  color: rgb(0, 0, 0);
+}
+
+.name {
+  width: 1200px;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+}
+
+.country-characteristics {
+  width: 600px;
+  display: flex;
+  flex-direction: column;
+  align-content: center;
+  align-items: center;
+}
+
+.img-flag {
+  width: 600px;
+  display: flex;
+  justify-content: center;
+}
+
+.langs,
+.population,
+.capital {
+  width: 250px;
+  font-weight: bold;
+  font-size: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.langs {
+  padding: 0 0 15px 0;
+}
+
+.name-country {
+  font-size: 50px;
+  font-family: Arial, Helvetica, sans-serif;
+  list-style: none;
+  text-align: center;
+}
+
+.country-item {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
+}
